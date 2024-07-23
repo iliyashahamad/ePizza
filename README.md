@@ -1,2 +1,2 @@
 # ePizza
-E-Commmerse Site
+E-Commerse Site
