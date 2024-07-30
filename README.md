@@ -6,9 +6,9 @@ Key Features:
 
 1. Public Section<br>
 <ul>
-       <dd>- Home Page</dd>
-      <dd>- About Us Page</dd>
-      <dd>- Contact Us Page</dd>
+<dd>- Home Page</dd>
+<dd>- About Us Page</dd>
+<dd>- Contact Us Page</dd>
 </ul>  
 2. Account<br>
 Login Page<br>
