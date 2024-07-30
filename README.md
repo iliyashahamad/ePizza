@@ -13,7 +13,7 @@ Key Features:
 
 2. Account<br>
 <ul>
-<dd>-Login Page</dd>
+<dd>- Login Page</dd>
 <dd>- SignUp Page</dd>
 <dd>- Forgot Password Page</dd>
 <dd>- SignOut Page</dd>
@@ -27,18 +27,20 @@ Key Features:
 
 4. Cart and Payment<br>
 <ul>
-<dd>-Cart Page</dd>
-<dd>-Checkout Page</dd>
-<dd>-Payment Page with payment gateway integration</dd>
-<dd>-Payment Confirmation Page</dd>
+c Cart Page</dd>
+<dd>- Checkout Page</dd>
+<dd>- Payment Page with payment gateway integration</dd>
+<dd>- Payment Confirmation Page</dd>
 </ul>
 
 5. User Module<br>
-Dashboard Page<br>
-Order Listing Page with Paging and Date Filter<br>
-Order Details Page <br>
-Profile Page <br>
-Change Password Page <br>
+<ul>
+<dd>- Dashboard Page</dd>
+<dd>- Order Listing Page with Paging and Date Filter</dd>
+<dd>- Order Details Page</dd> 
+<dd>- Profile Page</dd> 
+<dd>- Change Password Page</dd>
+</ul>
 
 6. Admin Module <br>
 Dashboard Page <br>
