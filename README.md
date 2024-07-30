@@ -4,11 +4,10 @@ simple, seamless, and effective online food ordering and delivery experience!
 <br>
 
 Key Features:
-1. Public Section
-<br>
-Home Page
-About Us Page
-Contact Us Page
+1. Public Section<br>
+Home Page<br>
+About Us Page<br>
+Contact Us Page<br>
 
 2. Account
 <br>
