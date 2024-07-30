@@ -1,20 +1,42 @@
 # ePizzaHub
-ePizzaHub is a DotNetCore-based application with a graphical user interface (GUI) implemented using the Tkinter module. It aims to efficiently manage various aspects of student and teacher information within a school setting. The project utilizes the pymysql library to handle database operations.
+ePizzaHub is a DotNetCore-based application with a graphical user interface (GUI).Build a website like Domino’s, Pizza Hut or McDonald's that enables customers to have a
+simple, seamless, and effective online food ordering and delivery experience!
 <br>
 Key Features:
 
-1. New Student Joining Panel: This panel enables the registration of new students by allowing the insertion of their data into the database. Students' information, including roll number, name, gender, class, contact, date of birth (DOB), and address, can be recorded.
-
-2. Registered Students Fee Panel: The fee panel facilitates the management of student fees. It provides a platform to track and handle fee-related information for registered students. This includes tracking payment status, due dates, and generating fee-related reports.
-
-3. Class Teacher Panel: The Class Teacher Panel provides relevant functionalities for teachers. Teachers can access and manage student-related data, such as attendance, grades, and performance metrics. This allows teachers to monitor their students' academic progress effectively.
-
-4.Principal Panel: The Principal Panel serves as an administrative interface, providing access to critical information and tools for school management. The principal can view overall student statistics, teacher performance, and other important school-related data.
-
-5.Data Retrieval Functionality: The project implements data retrieval functionality, allowing users to display and access student and teacher data stored within the system. This enables easy visualization and management of relevant information.
-
-The School Database Management System project aims to enhance the efficiency and organization of school-related tasks and data management. With its user-friendly GUI, teachers and administrators can easily input, access, and analyze student information, leading to better decision-making and improved school operations.
-
+Public Section
+Home Page
+About Us Page
+Contact Us Page
+Account
+Login Page
+SignUp Page
+Forgot Password Page
+SignOut Page
+Items
+Items Listing Page
+Add AddToCart Option
+Cart and Payment
+Cart Page
+Checkout Page
+Payment Page with payment gateway integration
+Payment Confirmation Page
+User Module
+Dashboard Page
+Order Listing Page with Paging and Date Filter
+Order Details Page
+Profile Page
+Change Password Page
+Admin Module
+Dashboard Page
+Category Listing, Create and Edit Pages
+Items Listing, Create and Edit Pages
+Received Orders Page
+Profile Page
+Change Password Page
+Build a website like Domino’s, Pizza Hut or McDonald's that enables customers to have a
+simple, seamless, and effective online food ordering and delivery experience!
+1
 How to use code
 
 Extract the zip file Run only the school.py file Show database: Install Xampp and then open the Xampp (start Apache server and MySQL) then open "localhost/phpmyadmin/" in Chrome browser.
