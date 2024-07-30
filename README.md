@@ -8,38 +8,35 @@ Key Features:
 Home Page<br>
 About Us Page<br>
 Contact Us Page<br>
+2. Account<br>
+Login Page<br>
+SignUp Page<br>
+Forgot Password Page<br>
+SignOut Page<br>
+3. Items<br>
+Items Listing Page<br>
+Add AddToCart Option<br>
 
-2. Account
-<br>
-Login Page
-SignUp Page
-Forgot Password Page
-SignOut Page
+4. Cart and Payment<br>
+Cart Page<br>
+Checkout Page<br>
+Payment Page with payment gateway integration<br>
+Payment Confirmation Page<br>
 
-3. Items
-Items Listing Page
-Add AddToCart Option
+5. User Module<br>
+Dashboard Page<br>
+Order Listing Page with Paging and Date Filter<br>
+Order Details Page <br>
+Profile Page <br>
+Change Password Page <br>
 
-4. Cart and Payment
-Cart Page
-Checkout Page
-Payment Page with payment gateway integration
-Payment Confirmation Page
-
-5. User Module
-Dashboard Page
-Order Listing Page with Paging and Date Filter
-Order Details Page
-Profile Page
-Change Password Page
-
-6. Admin Module
-Dashboard Page
-Category Listing, Create and Edit Pages
-Items Listing, Create and Edit Pages
-Received Orders Page
-Profile Page
-Change Password Page
+6. Admin Module <br>
+Dashboard Page <br>
+Category Listing, Create and Edit Pages <br>
+Items Listing, Create and Edit Pages <br>
+Received Orders Page <br>
+Profile Page <br>
+Change Password Page <br>
 
 How to use code
 
