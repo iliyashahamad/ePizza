@@ -5,9 +5,9 @@ simple, seamless, and effective online food ordering and delivery experience!
 
 Key Features:
 1. Public Section<br>
-Home Page<br> <ul>
-About Us Page<br> <ul>
-Contact Us Page<br> <ul>
+Home Page<br><ul>
+About Us Page<br>
+Contact Us Page<br></ul>
 2. Account<br>
 Login Page<br>
 SignUp Page<br>
