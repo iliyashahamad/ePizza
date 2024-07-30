@@ -27,7 +27,7 @@ Key Features:
 
 4. Cart and Payment<br>
 <ul>
-c Cart Page</dd>
+<dd>- Cart Page</dd>
 <dd>- Checkout Page</dd>
 <dd>- Payment Page with payment gateway integration</dd>
 <dd>- Payment Confirmation Page</dd>
