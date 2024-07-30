@@ -2,6 +2,7 @@
 ePizzaHub is a DotNetCore-based application with a graphical user interface (GUI).Build a website like Domino’s, Pizza Hut or McDonald's that enables customers to have a
 simple, seamless, and effective online food ordering and delivery experience!
 <br>
+
 Key Features:
 
 1. Public Section<br>
@@ -51,7 +52,6 @@ Key Features:
 <dd>- Profile Page</dd>
 <dd>- Change Password Page</dd>
 </ul>
-How to use code
 
 <br>
 Author:- ILIYASH AHAMAD
