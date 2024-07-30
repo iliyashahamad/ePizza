@@ -20,14 +20,18 @@ Key Features:
 </ul>  
 
 3. Items<br>
-Items Listing Page<br>
-Add AddToCart Option<br>
+<ul>
+<dd>- Items Listing Page</dd>
+<dd>- Add AddToCart Option</dd>
+</ul>
 
 4. Cart and Payment<br>
-Cart Page<br>
-Checkout Page<br>
-Payment Page with payment gateway integration<br>
-Payment Confirmation Page<br>
+<ul>
+<dd>-Cart Page</dd>
+<dd>-Checkout Page</dd>
+<dd>-Payment Page with payment gateway integration</dd>
+<dd>-Payment Confirmation Page</dd>
+</ul>
 
 5. User Module<br>
 Dashboard Page<br>
