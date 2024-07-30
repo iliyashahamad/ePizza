@@ -43,13 +43,14 @@ Key Features:
 </ul>
 
 6. Admin Module <br>
-Dashboard Page <br>
-Category Listing, Create and Edit Pages <br>
-Items Listing, Create and Edit Pages <br>
-Received Orders Page <br>
-Profile Page <br>
-Change Password Page <br>
-
+<ul>
+<dd>- Dashboard Page</dd>
+<dd>- Category Listing, Create and Edit Pages</dd>
+<dd>- Items Listing, Create and Edit Pages</dd>
+<dd>- Received Orders Page</dd>
+<dd>- Profile Page</dd>
+<dd>- Change Password Page</dd>
+</ul>
 How to use code
 
 <br>
