@@ -52,6 +52,5 @@ Key Features:
 <dd>- Profile Page</dd>
 <dd>- Change Password Page</dd>
 </ul>
-
 <br>
 Author:- ILIYASH AHAMAD
