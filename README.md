@@ -10,11 +10,14 @@ Key Features:
 <dd>- About Us Page</dd>
 <dd>- Contact Us Page</dd>
 </ul>  
+
 2. Account<br>
-Login Page<br>
-SignUp Page<br>
-Forgot Password Page<br>
-SignOut Page<br>
+<ul>
+<dd>-Login Page</dd>
+<dd>- SignUp Page</dd>
+<dd>- Forgot Password Page</dd>
+<dd>- SignOut Page</dd>
+</ul>  
 
 3. Items<br>
 Items Listing Page<br>
